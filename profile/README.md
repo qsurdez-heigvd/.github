@@ -56,6 +56,8 @@ to see clearly how my coding skills have improved ^^
 - [Lab 4 - Allocation Dynamique](https://github.com/qsurdez-heigvd/ASD/tree/main/lab04)
 - [Lab 5 - Buffer circulaire de capacité variable](https://github.com/qsurdez-heigvd/ASD/tree/main/lab05) (5.3)
 - [Lab 6 - Liste simplement chaînée](https://github.com/qsurdez-heigvd/ASD/tree/main/lab06)
+- [Lab 7 - Évaluation d'expression](https://github.com/qsurdez-heigvd/ASD/tree/main/lab07)
+- [Lab 8 - AVL Trees](https://github.com/qsurdez-heigvd/ASD/tree/main/lab08) (5.5)
 
 ### PRG2
 
