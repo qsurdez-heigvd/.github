@@ -50,6 +50,13 @@ to see clearly how my coding skills have improved ^^
 
 ### ASD
 
+- [Lab 1 - Complexités](https://github.com/qsurdez-heigvd/ASD/tree/main/lab01) (5.4)
+- [Lab 2 - Récursivité](https://github.com/qsurdez-heigvd/ASD/tree/main/lab02) (5.9)
+- [Lab 3 - Tris](https://github.com/qsurdez-heigvd/ASD/tree/main/lab03)
+- [Lab 4 - Allocation Dynamique](https://github.com/qsurdez-heigvd/ASD/tree/main/lab04)
+- [Lab 5 - Buffer circulaire de capacité variable](https://github.com/qsurdez-heigvd/ASD/tree/main/lab05) (5.3)
+- [Lab 6 - Liste simplement chaînée](https://github.com/qsurdez-heigvd/ASD/tree/main/lab06)
+
 ### PRG2
 
 ### RXI
