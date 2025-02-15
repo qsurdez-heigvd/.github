@@ -107,3 +107,7 @@ to see clearly how my coding skills have improved ^^
 ### DAA
 
 ### SLH
+
+- [Lab1](https://github.com/qsurdez-heigvd/SLH/tree/main/Lab1) (5.4)
+- [Lab2 - Validation](https://github.com/qsurdez-heigvd/SLH/tree/main/Lab2) (6)
+- [Lab3 - Authorization](https://github.com/qsurdez-heigvd/SLH/tree/main/Lab3) (6)
