@@ -42,11 +42,11 @@ to see clearly how my coding skills have improved ^^
 
 ### ISD
 
-- [TP 2](https://github.com/qsurdez-heigvd/ISD/tree/main/lab02)(5.4)
-- [TP 3](https://github.com/qsurdez-heigvd/ISD/tree/main/lab03)(5.6)
-- [TP 4](https://github.com/qsurdez-heigvd/ISD/tree/main/lab04)(6)
-- [TP 5](https://github.com/qsurdez-heigvd/ISD/tree/main/lab05)(5.7)
-- [TP 6](https://github.com/qsurdez-heigvd/ISD/tree/main/lab06)(5.7)
+- [TP 2](https://github.com/qsurdez-heigvd/ISD/tree/main/lab02) (5.4)
+- [TP 3](https://github.com/qsurdez-heigvd/ISD/tree/main/lab03) (5.6)
+- [TP 4](https://github.com/qsurdez-heigvd/ISD/tree/main/lab04) (6)
+- [TP 5](https://github.com/qsurdez-heigvd/ISD/tree/main/lab05) (5.7)
+- [TP 6](https://github.com/qsurdez-heigvd/ISD/tree/main/lab06) (5.7)
 
 ### SYL
 
