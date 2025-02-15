@@ -50,6 +50,11 @@ to see clearly how my coding skills have improved ^^
 
 ### SYL
 
+- [Checksum](https://github.com/qsurdez-heigvd/SYL/tree/main/Checksum) (circuit-6, quizz-5.4)
+- [ALU](https://github.com/qsurdez-heigvd/SYL/tree/main/ALU) (circuit-5.8, quizz-4.5)
+- [Chenillard](https://github.com/qsurdez-heigvd/SYL/tree/main/Chenilard) (circuit-6, quizz-6)
+- [Tapis](https://github.com/qsurdez-heigvd/SYL/tree/main/Tapis_de_triage) (session1-5.5, session2-5.6, session3-5.6)
+
 ## Semester 2
 
 ### ARO
