@@ -100,6 +100,14 @@ to see clearly how my coding skills have improved ^^
 
 ### WEB
 
+- [Lab HTML/CSS](https://github.com/qsurdez-heigvd/WEB/tree/main/lab01) (6)
+- [Lab Tetris - partie 1](https://github.com/qsurdez-heigvd/WEB/tree/main/lab02) (6)
+- [Lab Tetris - Interactions](https://github.com/qsurdez-heigvd/WEB/tree/main/lab03) (5.9)
+- [Lab MPA](https://github.com/qsurdez-heigvd/WEB/tree/main/lab04) (6)
+- [Lab Tetris - WebSockets](https://github.com/qsurdez-heigvd/WEB/tree/main/lab05) (4.3)
+- [Lab Security - CTF](https://github.com/qsurdez-heigvd/WEB/tree/main/lab06) (4.8)
+- [Lab Project](https://github.com/qsurdez-heigvd/WEB/tree/main/lab07) (5.6)
+
 ## Semestre 5
 
 ### AMT
