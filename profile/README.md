@@ -84,6 +84,11 @@ to see clearly how my coding skills have improved ^^
 
 ### PCO
 
+- [Lab 2](https://github.com/qsurdez-heigvd/PCO/tree/main/lab02)
+- [Lab 3](https://github.com/qsurdez-heigvd/PCO/tree/main/lab03) (5.6)
+- [Lab 4](https://github.com/qsurdez-heigvd/PCO/tree/main/lab04) (5.4)
+- [Lab 5](https://github.com/qsurdez-heigvd/PCO/tree/main/lab05) (6)
+
 ### POO
 
 ### SYE
