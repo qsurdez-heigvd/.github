@@ -97,7 +97,7 @@ to see clearly how my coding skills have improved ^^
 
 ### CLD
 
-Lost <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="35" height="35" />
+Lost ![](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif =35x35)
 
 ### MCR
 
@@ -107,7 +107,7 @@ Lost <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="35"
 
 ### PDL
 
-Lost <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="35" height="35" />
+Lost ![](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif =35x35)
 
 ### POA
 
