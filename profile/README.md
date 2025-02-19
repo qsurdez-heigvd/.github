@@ -99,6 +99,10 @@ to see clearly how my coding skills have improved ^^
 
 ### MCR
 
+- [Observateur](https://github.com/qsurdez-heigvd/MCR/tree/main/lab01) (4.8)
+- [Singleton](https://github.com/qsurdez-heigvd/MCR/tree/main/lab02) (5.4)
+- [Projet Mediator](https://github.com/qsurdez-heigvd/MCR/tree/main/lab03) (5.4)
+
 ### PDL
 
 ### POA
