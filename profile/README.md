@@ -131,11 +131,11 @@ Lost
 
 ### DAA
 
-- [Lab 1](https://github.com/qsurdez-heigvd/DAA/tree/main/lab01)
-- [Lab 2](https://github.com/qsurdez-heigvd/DAA/tree/main/lab02) (5.5)
-- [Lab 3](https://github.com/qsurdez-heigvd/DAA/tree/main/lab03) (6)
-- [Lab 4](https://github.com/qsurdez-heigvd/DAA/tree/main/lab04) (5.8)
-- [Lab 6](https://github.com/qsurdez-heigvd/DAA/tree/main/lab06) (5.8)
+- [Lab 1 - Installation et prise en main de l'IDE](https://github.com/qsurdez-heigvd/DAA/tree/main/lab01)
+- [Lab 2 - Activités et Fragments](https://github.com/qsurdez-heigvd/DAA/tree/main/lab02) (5.5)
+- [Lab 3 - Approche MVC](https://github.com/qsurdez-heigvd/DAA/tree/main/lab03) (6)
+- [Lab 4 - Architecture MVVM](https://github.com/qsurdez-heigvd/DAA/tree/main/lab04) (5.8)
+- [Lab 6 - Application communicante](https://github.com/qsurdez-heigvd/DAA/tree/main/lab06) (5.8)
 
 ### SLH
 
