@@ -97,6 +97,8 @@ to see clearly how my coding skills have improved ^^
 
 ### CLD
 
+Lost <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="35" height="35" />
+
 ### MCR
 
 - [Observateur](https://github.com/qsurdez-heigvd/MCR/tree/main/lab01) (4.8)
@@ -104,6 +106,8 @@ to see clearly how my coding skills have improved ^^
 - [Projet Mediator](https://github.com/qsurdez-heigvd/MCR/tree/main/lab03) (5.4)
 
 ### PDL
+
+Lost <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="35" height="35" />
 
 ### POA
 
