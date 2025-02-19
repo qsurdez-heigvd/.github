@@ -127,7 +127,7 @@ to see clearly how my coding skills have improved ^^
 - [Lab 2](https://github.com/qsurdez-heigvd/DAA/tree/main/lab02) (5.5)
 - [Lab 3](https://github.com/qsurdez-heigvd/DAA/tree/main/lab03) (6)
 - [Lab 4](https://github.com/qsurdez-heigvd/DAA/tree/main/lab04) (5.8)
-- [Lab 6](https://github.com/qsurdez-heigvd/DAA/tree/main/lab06) (5.8s)
+- [Lab 6](https://github.com/qsurdez-heigvd/DAA/tree/main/lab06) (5.8)
 
 ### SLH
 
