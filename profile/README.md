@@ -125,9 +125,9 @@ Lost
 
 ### AMT
 
-- [Lab 1](https://github.com/qsurdez-heigvd/AMT/tree/main/lab01) (5.8)
-- [Lab 2](https://github.com/qsurdez-heigvd/AMT/tree/main/lab02) (6)
-- [Lab 3](https://github.com/qsurdez-heigvd/AMT/tree/main/lab03) (5.8)
+- [Lab 1 - Quarkus with Sakila, Entity management](https://github.com/qsurdez-heigvd/AMT/tree/main/lab01) (5.8)
+- [Lab 2 - Quarkus with Sakila, Transactions](https://github.com/qsurdez-heigvd/AMT/tree/main/lab02) (6)
+- [Lab 3 - Vineward](https://github.com/qsurdez-heigvd/AMT/tree/main/lab03) (5.8)
 
 ### DAA
 
