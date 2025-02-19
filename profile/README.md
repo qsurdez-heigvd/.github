@@ -117,6 +117,10 @@ to see clearly how my coding skills have improved ^^
 
 ### AMT
 
+- [Lab 1](https://github.com/qsurdez-heigvd/AMT/tree/main/lab01) (5.8)
+- [Lab 2](https://github.com/qsurdez-heigvd/AMT/tree/main/lab02) (6)
+- [Lab 3](https://github.com/qsurdez-heigvd/AMT/tree/main/lab03) (5.8)
+
 ### DAA
 
 - [Lab 1](https://github.com/qsurdez-heigvd/DAA/tree/main/lab01)
