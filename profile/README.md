@@ -117,6 +117,11 @@ Lost
 
 ### POA
 
+- [Lab1 - Matrix](https://github.com/qsurdez-heigvd/POA/tree/main/lab01) (3.7 aïe aïe aïe)
+- [Lab2 - Squadron](https://github.com/qsurdez-heigvd/POA/tree/main/lab02) (4.8)
+- [Lab3 - Rivière](https://github.com/qsurdez-heigvd/POA/tree/main/lab03) (5.6)
+- [Lab4 - Buffy](https://github.com/qsurdez-heigvd/POA/tree/main/lab04) (5.2) 
+
 ### WEB
 
 - [Lab HTML/CSS](https://github.com/qsurdez-heigvd/WEB/tree/main/lab01) (6)
