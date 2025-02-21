@@ -99,6 +99,20 @@ to see clearly how my coding skills have improved ^^
 
 ### SYE
 
+- [Lab1](https://gitlab.com/Sinaf19/sye_surdez_quentin/-/tree/lab01?ref_type=heads)
+- [Lab2](https://gitlab.com/Sinaf19/sye_surdez_quentin/-/tree/lab02?ref_type=heads) (6)
+- [Lab3](https://gitlab.com/Sinaf19/sye_surdez_quentin/-/tree/lab03?ref_type=heads) (5.9)
+- [Lab4](https://gitlab.com/Sinaf19/sye_surdez_quentin/-/tree/lab04?ref_type=heads) (5.7)
+- [Lab5](https://gitlab.com/Sinaf19/sye_surdez_quentin/-/tree/lab05?ref_type=heads) (6)
+- [Lab6](https://gitlab.com/Sinaf19/sye_surdez_quentin/-/tree/lab06?ref_type=heads) (6)
+- [Lab7](https://gitlab.com/Sinaf19/sye_surdez_quentin/-/tree/lab07?ref_type=heads) (6)
+- [Lab8](https://gitlab.com/Sinaf19/sye_surdez_quentin/-/tree/lab08?ref_type=heads) (5.4)
+- [Lab9](https://gitlab.com/Sinaf19/sye_surdez_quentin/-/tree/lab09?ref_type=heads) 
+- [Lab10](https://gitlab.com/Sinaf19/sye_surdez_quentin/-/tree/lab10?ref_type=heads)
+- [Lab11](https://gitlab.com/Sinaf19/sye_surdez_quentin/-/tree/lab11?ref_type=heads) (6)
+- [Lab12](https://gitlab.com/Sinaf19/sye_surdez_quentin/-/tree/lab12?ref_type=heads) (5.8)
+- [Lab13](https://gitlab.com/Sinaf19/sye_surdez_quentin/-/tree/lab13?ref_type=heads) (6)
+
 ## Semester 4
 
 ### CLD
