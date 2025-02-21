@@ -35,6 +35,12 @@ to see clearly how my coding skills have improved ^^
     - [AMT](#amt)
     - [DAA](#daa)
     - [SLH](#slh)
+  - [Semestre 6](#semestre-6)
+    - [GRE](#gre)
+    - [ARN](#arn)
+    - [MIN](#min)
+    - [EAL](#eal)
+    - [DOP](#dop)
 
 ## Semester 1
 
@@ -142,3 +148,15 @@ Lost
 - [Lab1](https://github.com/qsurdez-heigvd/SLH/tree/main/Lab1) (5.4)
 - [Lab2 - Validation](https://github.com/qsurdez-heigvd/SLH/tree/main/Lab2) (6)
 - [Lab3 - Authorization](https://github.com/qsurdez-heigvd/SLH/tree/main/Lab3) (6)
+
+## Semestre 6
+
+### GRE
+
+### ARN
+
+### MIN
+
+### EAL
+
+### DOP
