@@ -189,4 +189,8 @@ Lost
 
 ### EAL
 
+- [Report 1](https://github.com/qsurdez-heigvd/EAL/tree/main/report1)
+
 ### DOP
+
+- [Lab 1 - Tools](https://github.com/qsurdez-heigvd/DOP/tree/main/lab01)
