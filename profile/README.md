@@ -47,6 +47,8 @@ to see clearly how my coding skills have improved ^^
 
 ### PRG1
 
+- _Sacrificed to Cthulhu to have good grades from now on_
+
 ### ISD
 
 - [Lab 2](https://github.com/qsurdez-heigvd/ISD/tree/main/lab02) (5.4)
