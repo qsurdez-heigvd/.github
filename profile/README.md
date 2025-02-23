@@ -59,8 +59,8 @@ to see clearly how my coding skills have improved ^^
 
 - [Lab 1 - Checksum](https://github.com/qsurdez-heigvd/SYL/tree/main/Checksum) (circuit-6, quizz-5.4)
 - [Lab 2 - ALU](https://github.com/qsurdez-heigvd/SYL/tree/main/ALU) (circuit-5.8, quizz-4.5)
-- [Lab3 - Chenillard](https://github.com/qsurdez-heigvd/SYL/tree/main/Chenilard) (circuit-6, quizz-6)
-- [Lab4 - Tapis](https://github.com/qsurdez-heigvd/SYL/tree/main/Tapis_de_triage) (session1-5.5, session2-5.6, session3-5.6)
+- [Lab 3 - Chenillard](https://github.com/qsurdez-heigvd/SYL/tree/main/Chenilard) (circuit-6, quizz-6)
+- [Lab 4 - Tapis](https://github.com/qsurdez-heigvd/SYL/tree/main/Tapis_de_triage) (session1-5.5, session2-5.6, session3-5.6)
 
 ## Semester 2
 
@@ -126,9 +126,9 @@ Lost
 
 ### MCR
 
-- [Observateur](https://github.com/qsurdez-heigvd/MCR/tree/main/lab01) (4.8)
-- [Singleton](https://github.com/qsurdez-heigvd/MCR/tree/main/lab02) (5.4)
-- [Projet Mediator](https://github.com/qsurdez-heigvd/MCR/tree/main/lab03) (5.4)
+- [Lab 1 - Observateur](https://github.com/qsurdez-heigvd/MCR/tree/main/lab01) (4.8)
+- [Lab 2 - Singleton](https://github.com/qsurdez-heigvd/MCR/tree/main/lab02) (5.4)
+- [Lab 3 - Projet Mediator](https://github.com/qsurdez-heigvd/MCR/tree/main/lab03) (5.4)
 
 ### PDL
 
