@@ -31,11 +31,12 @@ to see clearly how my coding skills have improved ^^
     - [PDL](#pdl)
     - [POA](#poa)
     - [WEB](#web)
-  - [Semestre 5](#semestre-5)
+  - [Summer School](#summer-school)
+  - [Semester 5](#semestre-5)
     - [AMT](#amt)
     - [DAA](#daa)
     - [SLH](#slh)
-  - [Semestre 6](#semestre-6)
+  - [Semester 6](#semestre-6)
     - [GRE](#gre)
     - [ARN](#arn)
     - [MIN](#min)
@@ -48,18 +49,18 @@ to see clearly how my coding skills have improved ^^
 
 ### ISD
 
-- [TP 2](https://github.com/qsurdez-heigvd/ISD/tree/main/lab02) (5.4)
-- [TP 3](https://github.com/qsurdez-heigvd/ISD/tree/main/lab03) (5.6)
-- [TP 4](https://github.com/qsurdez-heigvd/ISD/tree/main/lab04) (6)
-- [TP 5](https://github.com/qsurdez-heigvd/ISD/tree/main/lab05) (5.7)
-- [TP 6](https://github.com/qsurdez-heigvd/ISD/tree/main/lab06) (5.7)
+- [Lab 2](https://github.com/qsurdez-heigvd/ISD/tree/main/lab02) (5.4)
+- [Lab 3](https://github.com/qsurdez-heigvd/ISD/tree/main/lab03) (5.6)
+- [Lab 4](https://github.com/qsurdez-heigvd/ISD/tree/main/lab04) (6)
+- [Lab 5](https://github.com/qsurdez-heigvd/ISD/tree/main/lab05) (5.7)
+- [Lab 6](https://github.com/qsurdez-heigvd/ISD/tree/main/lab06) (5.7)
 
 ### SYL
 
-- [Checksum](https://github.com/qsurdez-heigvd/SYL/tree/main/Checksum) (circuit-6, quizz-5.4)
-- [ALU](https://github.com/qsurdez-heigvd/SYL/tree/main/ALU) (circuit-5.8, quizz-4.5)
-- [Chenillard](https://github.com/qsurdez-heigvd/SYL/tree/main/Chenilard) (circuit-6, quizz-6)
-- [Tapis](https://github.com/qsurdez-heigvd/SYL/tree/main/Tapis_de_triage) (session1-5.5, session2-5.6, session3-5.6)
+- [Lab 1 - Checksum](https://github.com/qsurdez-heigvd/SYL/tree/main/Checksum) (circuit-6, quizz-5.4)
+- [Lab 2 - ALU](https://github.com/qsurdez-heigvd/SYL/tree/main/ALU) (circuit-5.8, quizz-4.5)
+- [Lab3 - Chenillard](https://github.com/qsurdez-heigvd/SYL/tree/main/Chenilard) (circuit-6, quizz-6)
+- [Lab4 - Tapis](https://github.com/qsurdez-heigvd/SYL/tree/main/Tapis_de_triage) (session1-5.5, session2-5.6, session3-5.6)
 
 ## Semester 2
 
@@ -99,19 +100,19 @@ to see clearly how my coding skills have improved ^^
 
 ### SYE
 
-- [Lab1](https://gitlab.com/Sinaf19/sye_surdez_quentin/-/tree/lab01?ref_type=heads)
-- [Lab2](https://gitlab.com/Sinaf19/sye_surdez_quentin/-/tree/lab02?ref_type=heads) (6)
-- [Lab3](https://gitlab.com/Sinaf19/sye_surdez_quentin/-/tree/lab03?ref_type=heads) (5.9)
-- [Lab4](https://gitlab.com/Sinaf19/sye_surdez_quentin/-/tree/lab04?ref_type=heads) (5.7)
-- [Lab5](https://gitlab.com/Sinaf19/sye_surdez_quentin/-/tree/lab05?ref_type=heads) (6)
-- [Lab6](https://gitlab.com/Sinaf19/sye_surdez_quentin/-/tree/lab06?ref_type=heads) (6)
-- [Lab7](https://gitlab.com/Sinaf19/sye_surdez_quentin/-/tree/lab07?ref_type=heads) (6)
-- [Lab8](https://gitlab.com/Sinaf19/sye_surdez_quentin/-/tree/lab08?ref_type=heads) (5.4)
-- [Lab9](https://gitlab.com/Sinaf19/sye_surdez_quentin/-/tree/lab09?ref_type=heads) 
-- [Lab10](https://gitlab.com/Sinaf19/sye_surdez_quentin/-/tree/lab10?ref_type=heads)
-- [Lab11](https://gitlab.com/Sinaf19/sye_surdez_quentin/-/tree/lab11?ref_type=heads) (6)
-- [Lab12](https://gitlab.com/Sinaf19/sye_surdez_quentin/-/tree/lab12?ref_type=heads) (5.8)
-- [Lab13](https://gitlab.com/Sinaf19/sye_surdez_quentin/-/tree/lab13?ref_type=heads) (6)
+- [Lab 1](https://gitlab.com/Sinaf19/sye_surdez_quentin/-/tree/lab01?ref_type=heads)
+- [Lab 2](https://gitlab.com/Sinaf19/sye_surdez_quentin/-/tree/lab02?ref_type=heads) (6)
+- [Lab 3](https://gitlab.com/Sinaf19/sye_surdez_quentin/-/tree/lab03?ref_type=heads) (5.9)
+- [Lab 4](https://gitlab.com/Sinaf19/sye_surdez_quentin/-/tree/lab04?ref_type=heads) (5.7)
+- [Lab 5](https://gitlab.com/Sinaf19/sye_surdez_quentin/-/tree/lab05?ref_type=heads) (6)
+- [Lab 6](https://gitlab.com/Sinaf19/sye_surdez_quentin/-/tree/lab06?ref_type=heads) (6)
+- [Lab 7](https://gitlab.com/Sinaf19/sye_surdez_quentin/-/tree/lab07?ref_type=heads) (6)
+- [Lab 8](https://gitlab.com/Sinaf19/sye_surdez_quentin/-/tree/lab08?ref_type=heads) (5.4)
+- [Lab 9](https://gitlab.com/Sinaf19/sye_surdez_quentin/-/tree/lab09?ref_type=heads) 
+- [Lab 10](https://gitlab.com/Sinaf19/sye_surdez_quentin/-/tree/lab10?ref_type=heads)
+- [Lab 11](https://gitlab.com/Sinaf19/sye_surdez_quentin/-/tree/lab11?ref_type=heads) (6)
+- [Lab 12](https://gitlab.com/Sinaf19/sye_surdez_quentin/-/tree/lab12?ref_type=heads) (5.8)
+- [Lab 13](https://gitlab.com/Sinaf19/sye_surdez_quentin/-/tree/lab13?ref_type=heads) (6)
 
 ## Semester 4
 
@@ -131,10 +132,10 @@ Lost
 
 ### POA
 
-- [Lab1 - Matrix](https://github.com/qsurdez-heigvd/POA/tree/main/lab01) (3.7 aïe aïe aïe)
-- [Lab2 - Squadron](https://github.com/qsurdez-heigvd/POA/tree/main/lab02) (4.8)
-- [Lab3 - Rivière](https://github.com/qsurdez-heigvd/POA/tree/main/lab03) (5.6)
-- [Lab4 - Buffy](https://github.com/qsurdez-heigvd/POA/tree/main/lab04) (5.2) 
+- [Lab 1 - Matrix](https://github.com/qsurdez-heigvd/POA/tree/main/lab01) (3.7 aïe aïe aïe)
+- [Lab 2 - Squadron](https://github.com/qsurdez-heigvd/POA/tree/main/lab02) (4.8)
+- [Lab 3 - Rivière](https://github.com/qsurdez-heigvd/POA/tree/main/lab03) (5.6)
+- [Lab 4 - Buffy](https://github.com/qsurdez-heigvd/POA/tree/main/lab04) (5.2) 
 
 ### WEB
 
@@ -146,7 +147,11 @@ Lost
 - [Lab Security - CTF](https://github.com/qsurdez-heigvd/WEB/tree/main/lab06) (4.8)
 - [Lab Project](https://github.com/qsurdez-heigvd/WEB/tree/main/lab07) (5.6)
 
-## Semestre 5
+## Summer School
+
+- [Team Project](https://github.com/Plant-keeper) (5.8)
+
+## Semester 5
 
 ### AMT
 
@@ -164,11 +169,11 @@ Lost
 
 ### SLH
 
-- [Lab1](https://github.com/qsurdez-heigvd/SLH/tree/main/Lab1) (5.4)
-- [Lab2 - Validation](https://github.com/qsurdez-heigvd/SLH/tree/main/Lab2) (6)
-- [Lab3 - Authorization](https://github.com/qsurdez-heigvd/SLH/tree/main/Lab3) (6)
+- [Lab 1](https://github.com/qsurdez-heigvd/SLH/tree/main/Lab1) (5.4)
+- [Lab 2 - Validation](https://github.com/qsurdez-heigvd/SLH/tree/main/Lab2) (6)
+- [Lab 3 - Authorization](https://github.com/qsurdez-heigvd/SLH/tree/main/Lab3) (6)
 
-## Semestre 6
+## Semester 6
 
 ### GRE
 
