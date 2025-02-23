@@ -83,6 +83,10 @@ to see clearly how my coding skills have improved ^^
 
 ### ISI
 
+## Summer School
+
+- [IT Project](https://github.com/qsurdez-heigvd/PIN/tree/main/project) (4.9)
+
 ## Semester 3
 
 ### BDR
