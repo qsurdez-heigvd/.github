@@ -167,17 +167,21 @@ Lost
 
 ### DAA
 
-- [Lab 1 - Installation et prise en main de l'IDE](https://github.com/qsurdez-heigvd/DAA/tree/main/lab01)
-- [Lab 2 - Activités et Fragments](https://github.com/qsurdez-heigvd/DAA/tree/main/lab02) (5.5)
-- [Lab 3 - Approche MVC](https://github.com/qsurdez-heigvd/DAA/tree/main/lab03) (6)
-- [Lab 4 - Architecture MVVM](https://github.com/qsurdez-heigvd/DAA/tree/main/lab04) (5.8)
-- [Lab 6 - Application communicante](https://github.com/qsurdez-heigvd/DAA/tree/main/lab06) (5.8)
+| Title                                          | Quick Description                                                                                                                             | Language | Grade |
+|------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|----------|-------|
+| [Lab 1 - Installation et prise en main de l'IDE](https://github.com/qsurdez-heigvd/DAA/tree/main/lab01) | Exploration de différents `Layout` proposés par Android                                                                                       | Kotlin   | N/A   |
+| [Lab 2 - Activités et Fragments](https://github.com/qsurdez-heigvd/DAA/tree/main/lab02)                 | Implémentation d'une `Activity` et d'un `Fragment` simple pour comprendre leurs différences et les cas dans lesquels utilisés l'un ou l'autre | Kotlin   | 5.5   |
+| [Lab 3 - Approche MVC](https://github.com/qsurdez-heigvd/DAA/tree/main/lab03) | Exploration du modèle MVC dans une app Android comme introduction au modèle MVVM | Kotlin | 6 |
+| [Lab 4 - Architecture MVVM](https://github.com/qsurdez-heigvd/DAA/tree/main/lab04) | Exploration de MVVM avec une application de notes stockées en DB | Kotlin | 5.8 |
+| [Lab 6 - Application communicante](https://github.com/qsurdez-heigvd/DAA/tree/main/lab06) | Application regroupants les concepts vus précédemment. Y est ajouté une communication avec une API REST pour intégrer une sychronisation de données entre l'utilisatrice et un service web | 5.8 |
 
 ### SLH
 
-- [Lab 1](https://github.com/qsurdez-heigvd/SLH/tree/main/Lab1) (5.4)
-- [Lab 2 - Validation](https://github.com/qsurdez-heigvd/SLH/tree/main/Lab2) (6)
-- [Lab 3 - Authorization](https://github.com/qsurdez-heigvd/SLH/tree/main/Lab3) (6)
+| Title                                                                         | Quick Description                                  | Language | Grade |
+|-------------------------------------------------------------------------------|----------------------------------------------------|----------|-------|
+| [Lab 1](https://github.com/qsurdez-heigvd/SLH/tree/main/Lab1)                 | Handout of SQL injection and XSS attacks           | agnostic | 5.4   |
+| [Lab 2 - Validation](https://github.com/qsurdez-heigvd/SLH/tree/main/Lab2)    | Implementing validation logic for user inputs      | Rust 🦀  | 6     |
+| [Lab 3 - Authorization](https://github.com/qsurdez-heigvd/SLH/tree/main/Lab3) | Using Casbin to implement ABAC authorization logic | Rust 🦀  | 6     |
 
 ## Semester 6
 
