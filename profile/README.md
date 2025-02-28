@@ -161,19 +161,22 @@ Lost
 
 ### AMT
 
-- [Lab 1 - Quarkus with Sakila, Entity management](https://github.com/qsurdez-heigvd/AMT/tree/main/lab01) (5.8)
-- [Lab 2 - Quarkus with Sakila, Transactions](https://github.com/qsurdez-heigvd/AMT/tree/main/lab02) (6)
-- [Lab 3 - Vineward](https://github.com/qsurdez-heigvd/AMT/tree/main/lab03) (5.8)
+| Title                                                                                                   | Quick Description                                                                                                                                                | Language | Grade |
+|---------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|-------|
+| [Lab 1 - Quarkus with Sakila, Entity management](https://github.com/qsurdez-heigvd/AMT/tree/main/lab01) | Getting to know Quarkus and how to create entity within a persistence context. Trying different ways to query the data with different APIs like Criteria or JPQL | Java ☕   | 5.8   |
+| [Lab 2 - Quarkus with Sakila, Transactions](https://github.com/qsurdez-heigvd/AMT/tree/main/lab02) | Implementing a `RentalService` within the application that is restricted to some user. Adding authorization and authentication | Java ☕ | 6 |
+| [Lab 3 - Vineward](https://github.com/qsurdez-heigvd/AMT/tree/main/lab03) | Project to discover a new technology, JavaPoet. The project is to make a library that is typesafe to authorize user in an application. JavaPoet is used to generate the code necessary for it | Java ☕ | 5.8 |
+
 
 ### DAA
 
-| Title                                          | Quick Description                                                                                                                             | Language | Grade |
-|-----------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|----------|-------|
-| [Lab 1 - Installation et prise en main de l'IDE](https://github.com/qsurdez-heigvd/DAA/tree/main/lab01) | Exploration de différents `Layout` proposés par Android                                                                                       | Kotlin   | N/A   |
-| [Lab 2 - Activités et Fragments](https://github.com/qsurdez-heigvd/DAA/tree/main/lab02)                 | Implémentation d'une `Activity` et d'un `Fragment` simple pour comprendre leurs différences et les cas dans lesquels utilisés l'un ou l'autre | Kotlin   | 5.5   |
-| [Lab 3 - Approche MVC](https://github.com/qsurdez-heigvd/DAA/tree/main/lab03) | Exploration du modèle MVC dans une app Android comme introduction au modèle MVVM | Kotlin | 6 |
-| [Lab 4 - Architecture MVVM](https://github.com/qsurdez-heigvd/DAA/tree/main/lab04) | Exploration de MVVM avec une application de notes stockées en DB | Kotlin | 5.8 |
-| [Lab 6 - Application communicante](https://github.com/qsurdez-heigvd/DAA/tree/main/lab06) | Application regroupant les concepts vus précédemment. Y est ajouté une communication avec une API REST pour intégrer une sychronisation de données entre l'utilisatrice et un service web | Kotlin | 5.8 |
+| Title                                                                                                   | Quick Description                                                                                                                                                                         | Language | Grade |
+|---------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|-------|
+| [Lab 1 - Installation et prise en main de l'IDE](https://github.com/qsurdez-heigvd/DAA/tree/main/lab01) | Exploration de différents `Layout` proposés par Android                                                                                                                                   | Kotlin   | N/A   |
+| [Lab 2 - Activités et Fragments](https://github.com/qsurdez-heigvd/DAA/tree/main/lab02)                 | Implémentation d'une `Activity` et d'un `Fragment` simple pour comprendre leurs différences et les cas dans lesquels utilisés l'un ou l'autre                                             | Kotlin   | 5.5   |
+| [Lab 3 - Approche MVC](https://github.com/qsurdez-heigvd/DAA/tree/main/lab03)                           | Exploration du modèle MVC dans une app Android comme introduction au modèle MVVM                                                                                                          | Kotlin   | 6     |
+| [Lab 4 - Architecture MVVM](https://github.com/qsurdez-heigvd/DAA/tree/main/lab04)                      | Exploration de MVVM avec une application de notes stockées en DB                                                                                                                          | Kotlin   | 5.8   |
+| [Lab 6 - Application communicante](https://github.com/qsurdez-heigvd/DAA/tree/main/lab06)               | Application regroupant les concepts vus précédemment. Y est ajouté une communication avec une API REST pour intégrer une sychronisation de données entre l'utilisatrice et un service web | Kotlin   | 5.8   |
 
 ### SLH
 
