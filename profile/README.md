@@ -155,20 +155,20 @@ Lost
 
 ## Summer School
 
-| Title                                                                                                   | Quick Description                                                                                                                                                | Language | Grade |
-|---------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|-------|
-| [Team Project](https://github.com/Plant-keeper) | 3 weeks project to create an full-stack app. The project is made in React for the frontend and NextJS for the backend. We implemented a CRUD API, Mailing Service and IOT communication. | TypeScript <img src="https://gist.github.com/cxmeel/0dbc95191f239b631c3874f4ccf114e2#file-typescript-icon-svg" width="32" height="32"> | 5.8 |
+| Title                                           | Quick Description                                                                                                                                                                        | Language   | Grade | Link |
+|-------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|-------|----|
+| [Team Project](https://github.com/Plant-keeper) | 3 weeks project to create an full-stack app. The project is made in React for the frontend and NextJS for the backend. We implemented a CRUD API, Mailing Service and IOT communication. | TypeScript | 5.8 | [PlantKeeper](https://plantkeeper.ch/) |
 
 
 ## Semester 5
 
 ### AMT
 
-| Title                                                                                                   | Quick Description                                                                                                                                                | Language | Grade |
-|---------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|-------|
-| [Lab 1 - Quarkus with Sakila, Entity management](https://github.com/qsurdez-heigvd/AMT/tree/main/lab01) | Getting to know Quarkus and how to create entity within a persistence context. Trying different ways to query the data with different APIs like Criteria or JPQL | Java ☕   | 5.8   |
-| [Lab 2 - Quarkus with Sakila, Transactions](https://github.com/qsurdez-heigvd/AMT/tree/main/lab02) | Implementing a `RentalService` within the application that is restricted to some user. Adding authorization and authentication | Java ☕ | 6 |
-| [Lab 3 - Vineward](https://github.com/qsurdez-heigvd/AMT/tree/main/lab03) | Project to discover a new technology, JavaPoet. The project is to make a library that is typesafe to authorize user in an application. JavaPoet is used to generate the code necessary for it | Java ☕ | 5.8 |
+| Title                                                                                                   | Quick Description                                                                                                                                                                             | Language | Grade |
+|---------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|-------|
+| [Lab 1 - Quarkus with Sakila, Entity management](https://github.com/qsurdez-heigvd/AMT/tree/main/lab01) | Getting to know Quarkus and how to create entity within a persistence context. Trying different ways to query the data with different APIs like Criteria or JPQL                              | Java ☕   | 5.8   |
+| [Lab 2 - Quarkus with Sakila, Transactions](https://github.com/qsurdez-heigvd/AMT/tree/main/lab02)      | Implementing a `RentalService` within the application that is restricted to some user. Adding authorization and authentication                                                                | Java ☕   | 6     |
+| [Lab 3 - Vineward](https://github.com/qsurdez-heigvd/AMT/tree/main/lab03)                               | Project to discover a new technology, JavaPoet. The project is to make a library that is typesafe to authorize user in an application. JavaPoet is used to generate the code necessary for it | Java ☕   | 5.8   |
 
 
 ### DAA
