@@ -47,7 +47,7 @@ to see clearly how my coding skills have improved ^^
 
 ### PRG1
 
-- _Sacrificed to Cthulhu to have good grades from now on_
+- _Sacrificed to Cthulhu to have good grades from now on_ 🐙
 
 ### ISD
 
@@ -168,12 +168,12 @@ Lost
 ### DAA
 
 | Title                                          | Quick Description                                                                                                                             | Language | Grade |
-|------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|----------|-------|
+|-----------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|----------|-------|
 | [Lab 1 - Installation et prise en main de l'IDE](https://github.com/qsurdez-heigvd/DAA/tree/main/lab01) | Exploration de différents `Layout` proposés par Android                                                                                       | Kotlin   | N/A   |
 | [Lab 2 - Activités et Fragments](https://github.com/qsurdez-heigvd/DAA/tree/main/lab02)                 | Implémentation d'une `Activity` et d'un `Fragment` simple pour comprendre leurs différences et les cas dans lesquels utilisés l'un ou l'autre | Kotlin   | 5.5   |
 | [Lab 3 - Approche MVC](https://github.com/qsurdez-heigvd/DAA/tree/main/lab03) | Exploration du modèle MVC dans une app Android comme introduction au modèle MVVM | Kotlin | 6 |
 | [Lab 4 - Architecture MVVM](https://github.com/qsurdez-heigvd/DAA/tree/main/lab04) | Exploration de MVVM avec une application de notes stockées en DB | Kotlin | 5.8 |
-| [Lab 6 - Application communicante](https://github.com/qsurdez-heigvd/DAA/tree/main/lab06) | Application regroupants les concepts vus précédemment. Y est ajouté une communication avec une API REST pour intégrer une sychronisation de données entre l'utilisatrice et un service web | 5.8 |
+| [Lab 6 - Application communicante](https://github.com/qsurdez-heigvd/DAA/tree/main/lab06) | Application regroupant les concepts vus précédemment. Y est ajouté une communication avec une API REST pour intégrer une sychronisation de données entre l'utilisatrice et un service web | Kotlin | 5.8 |
 
 ### SLH
 
