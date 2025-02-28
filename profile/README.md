@@ -157,7 +157,7 @@ Lost
 
 | Title                                                                                                   | Quick Description                                                                                                                                                | Language | Grade |
 |---------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|-------|
-| [Team Project](https://github.com/Plant-keeper) | 3 weeks project to create an full-stack app. The project is made in React for the frontend and NextJS for the backend. We implemented a CRUD API, Mailing Service and IOT communication. | TypeScript [![Typescript](https://gist.github.com/cxmeel/0dbc95191f239b631c3874f4ccf114e2#file-typescript-compact-svg)](https://www.typescriptlang.org/) | 5.8 |
+| [Team Project](https://github.com/Plant-keeper) | 3 weeks project to create an full-stack app. The project is made in React for the frontend and NextJS for the backend. We implemented a CRUD API, Mailing Service and IOT communication. | TypeScript <img src="https://gist.github.com/cxmeel/0dbc95191f239b631c3874f4ccf114e2#file-typescript-icon-svg" width="32" height="32"> | 5.8 |
 
 
 ## Semester 5
