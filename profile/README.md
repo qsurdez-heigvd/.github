@@ -206,3 +206,4 @@ Lost
 ### DOP
 
 - [Lab 1 - Tools](https://github.com/qsurdez-heigvd/DOP/tree/main/lab01)
+- [Lab 2 - Docker](https://github.com/qsurdez-heigvd/DOP/tree/main/lab02)
