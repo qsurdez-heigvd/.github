@@ -51,11 +51,14 @@ to see clearly how my coding skills have improved ^^
 
 ### ISD
 
-- [Lab 2](https://github.com/qsurdez-heigvd/ISD/tree/main/lab02) (5.4)
-- [Lab 3](https://github.com/qsurdez-heigvd/ISD/tree/main/lab03) (5.6)
-- [Lab 4](https://github.com/qsurdez-heigvd/ISD/tree/main/lab04) (6)
-- [Lab 5](https://github.com/qsurdez-heigvd/ISD/tree/main/lab05) (5.7)
-- [Lab 6](https://github.com/qsurdez-heigvd/ISD/tree/main/lab06) (5.7)
+| Title                                                          | Quick Description                                                                           | Language  | Grade |
+|----------------------------------------------------------------|---------------------------------------------------------------------------------------------|-----------|-------|
+| [Lab 2](https://github.com/qsurdez-heigvd/ISD/tree/main/lab02) | Introduction to tools for analyzing data and creating graphs                                | Python 🐍 | 5.4   |
+| [Lab 3](https://github.com/qsurdez-heigvd/ISD/tree/main/lab03) | Focuses on exploratory data analysis to understand data visualization                       | Python 🐍 | 5.6   |
+| [Lab 4](https://github.com/qsurdez-heigvd/ISD/tree/main/lab04) | Implementing and evaluating different classification models, such as kNN or LVQ.            | Python 🐍 | 6     |
+| [Lab 5](https://github.com/qsurdez-heigvd/ISD/tree/main/lab05) | Implementing and analyzing simple and multiple linear regression                            | Python 🐍 | 5.7   |
+| [Lab 6](https://github.com/qsurdez-heigvd/ISD/tree/main/lab06) | Exploring unsupervised learning techniques using K-means to reduce an image's color palette | Python 🐍 | 5.7   |
+
 
 ### SYL
 
@@ -124,7 +127,7 @@ to see clearly how my coding skills have improved ^^
 
 ### CLD
 
-Lost 
+- _Sacrificed to Cthulhu to have good grades from now on_ 🐙
 
 ### MCR
 
@@ -134,7 +137,7 @@ Lost
 
 ### PDL
 
-Lost
+- _Sacrificed to Cthulhu to have good grades from now on_ 🐙
 
 ### POA
 
@@ -155,9 +158,9 @@ Lost
 
 ## Summer School
 
-| Title                                           | Quick Description                                                                                                                                                                        | Language   | Grade | Link |
-|-------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|-------|----|
-| [Team Project](https://github.com/Plant-keeper) | 3 weeks project to create an full-stack app. The project is made in React for the frontend and NextJS for the backend. We implemented a CRUD API, Mailing Service and IOT communication. | TypeScript | 5.8 | [PlantKeeper](https://plantkeeper.ch/) |
+| Title                                           | Quick Description                                                                                                                                                                        | Language   | Grade | Link                                   |
+|-------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|-------|----------------------------------------|
+| [Team Project](https://github.com/Plant-keeper) | 3 weeks project to create an full-stack app. The project is made in React for the frontend and NextJS for the backend. We implemented a CRUD API, Mailing Service and IOT communication. | TypeScript | 5.8   | [PlantKeeper](https://plantkeeper.ch/) |
 
 
 ## Semester 5
@@ -199,11 +202,11 @@ Lost
 
 ### MIN
 
-### EAL
-
-- [Report 1](https://github.com/qsurdez-heigvd/EAL/tree/main/report1)
 
 ### DOP
 
-- [Lab 1 - Tools](https://github.com/qsurdez-heigvd/DOP/tree/main/lab01)
-- [Lab 2 - Docker](https://github.com/qsurdez-heigvd/DOP/tree/main/lab02)
+| Title                                                                   | Quick Description                                                         | Language  | Grade |
+|-------------------------------------------------------------------------|---------------------------------------------------------------------------|-----------|-------|
+| [Lab 1 - Tools](https://github.com/qsurdez-heigvd/DOP/tree/main/lab01)  | Installing all apps and necessary software to do the following labs       | agnostic  | NA    |
+| [Lab 2 - Docker](https://github.com/qsurdez-heigvd/DOP/tree/main/lab02) | Writing Dockerfile with good practices in mind such as multi-stage images | Docker 🐋 |       |
+
