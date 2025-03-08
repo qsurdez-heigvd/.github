@@ -18,7 +18,6 @@ to see clearly how my coding skills have improved ^^
     - [ASD](#asd)
     - [PRG2](#prg2)
     - [RXI](#rxi)
-    - [ISI](#isi)
   - [Semester 3](#semester-3)
     - [BDR](#bdr)
     - [DAI](#dai)
@@ -97,9 +96,15 @@ The following labs have been made on an open-source software to create and simul
 
 ### PRG2
 
+| Title                                                                                | Quick Description                                                               | Language | Grade |
+|--------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|----------|-------|
+| [Lab 1 - Double Linked List](https://github.com/qsurdez-heigvd/PRG2/tree/main/lab01) | Implementing from scratch a double linked list struct                           | C        | 4.6   |
+| [Lab 2 - Boats](https://github.com/qsurdez-heigvd/PRG2/tree/main/lab02)              | Implementing a logic given with dynamic allocation, unions and enumerated types | C        | 4.6   |
+
+
 ### RXI
 
-### ISI
+- _Sacrificed to Cthulhu to have good grades from now on_ 🐙
 
 ## Summer School
 
