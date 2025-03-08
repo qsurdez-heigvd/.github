@@ -62,7 +62,7 @@ to see clearly how my coding skills have improved ^^
 
 ### SYL
 
-The following labs have been made on an open-source software to create and simulate logical circuit. The software is called [Logisim](https://github.com/reds-heig/logisim-evolution-reds).
+The following labs have been made on an open-source software to create and simulate logical circuits. The software is called [Logisim](https://github.com/reds-heig/logisim-evolution-reds).
 
 | Title                                                                            | Quick Description                                                                                                                   | Language | Grade circuit | Grade quizz |
 |----------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|----------|---------------|-------------|
@@ -76,7 +76,7 @@ The following labs have been made on an open-source software to create and simul
 
 ### ARO
 
-The following labs have been made on an open-source software to create and simulate logical circuit. The software is called [Logisim](https://github.com/reds-heig/logisim-evolution-reds).
+The following labs have been made on an open-source software to create and simulate logical circuits. The software is called [Logisim](https://github.com/reds-heig/logisim-evolution-reds).
 
 | Title                                                                           | Quick Description                                                                                                                                                                                                                                                     | Language | Grade circuit |
 |---------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|---------------|
