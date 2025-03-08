@@ -51,13 +51,13 @@ to see clearly how my coding skills have improved ^^
 
 ### ISD
 
-| Title                                                          | Quick Description                                                                           | Language  | Grade |
-|----------------------------------------------------------------|---------------------------------------------------------------------------------------------|-----------|-------|
-| [Lab 2](https://github.com/qsurdez-heigvd/ISD/tree/main/lab02) | Introduction to tools for analyzing data and creating graphs                                | Python 🐍 | 5.4   |
-| [Lab 3](https://github.com/qsurdez-heigvd/ISD/tree/main/lab03) | Focuses on exploratory data analysis to understand data visualization                       | Python 🐍 | 5.6   |
-| [Lab 4](https://github.com/qsurdez-heigvd/ISD/tree/main/lab04) | Implementing and evaluating different classification models, such as kNN or LVQ.            | Python 🐍 | 6     |
-| [Lab 5](https://github.com/qsurdez-heigvd/ISD/tree/main/lab05) | Implementing and analyzing simple and multiple linear regression                            | Python 🐍 | 5.7   |
-| [Lab 6](https://github.com/qsurdez-heigvd/ISD/tree/main/lab06) | Exploring unsupervised learning techniques using K-means to reduce an image's color palette | Python 🐍 | 5.7   |
+| Title                                                                                  | Quick Description                                                                           | Language  | Grade |
+|----------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|-----------|-------|
+| [Lab 2 - Tools](https://github.com/qsurdez-heigvd/ISD/tree/main/lab02)                 | Introduction to tools for analyzing data and creating graphs                                | Python 🐍 | 5.4   |
+| [Lab 3 - EDA](https://github.com/qsurdez-heigvd/ISD/tree/main/lab03)                   | Focuses on exploratory data analysis to understand data visualization                       | Python 🐍 | 5.6   |
+| [Lab 4 - Models](https://github.com/qsurdez-heigvd/ISD/tree/main/lab04)                | Implementing and evaluating different classification models, such as kNN or LVQ.            | Python 🐍 | 6     |
+| [Lab 5 - Linear Regression](https://github.com/qsurdez-heigvd/ISD/tree/main/lab05)     | Implementing and analyzing simple and multiple linear regression                            | Python 🐍 | 5.7   |
+| [Lab 6 - Unsupervised learning](https://github.com/qsurdez-heigvd/ISD/tree/main/lab06) | Exploring unsupervised learning techniques using K-means to reduce an image's color palette | Python 🐍 | 5.7   |
 
 
 ### SYL
