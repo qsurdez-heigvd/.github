@@ -76,6 +76,14 @@ The following labs have been made on an open-source software to create and simul
 
 ### ARO
 
+The following labs have been made on an open-source software to create and simulate logical circuit. The software is called [Logisim](https://github.com/reds-heig/logisim-evolution-reds).
+
+| Title                                                                           | Quick Description                                                                                                                                                                                                                                                     | Language | Grade circuit |
+|---------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|---------------|
+| [Lab 1 - Fetch](https://github.com/qsurdez-heigvd/ARO/tree/main/lab01)          | This lab focuses on implementing the FETCH component of a simplified processor using Logisim, including Program Counter (PC) management, instruction memory addressing, and implementing conditional and unconditional jumps with verification through assembly code. | Logisim  | 5.5           |
+| [Lab 2 - Decode+Execute](https://github.com/qsurdez-heigvd/ARO/tree/main/lab02) | This lab focuses on implementing the DECODE and EXECUTE stages of a simplified processor in Logisim, including a register bank, instruction decoding, ALU operations, and memory access capabilities                                                                  | Logisim  | 6             |
+| [Lab 3 - Pipeline](https://github.com/qsurdez-heigvd/ARO/tree/main/lab03)       | This lab builds on previous work to implement and understand pipelined processor architecture using Logisim, with specific focus on detecting and resolving data hazards through pipeline stalls and forwarding techniques to improve processor performance.          | Logisim  | 6             |
+
 ### ASD
 
 - [Lab 1 - Complexités](https://github.com/qsurdez-heigvd/ASD/tree/main/lab01) (5.4)
