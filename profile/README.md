@@ -62,10 +62,15 @@ to see clearly how my coding skills have improved ^^
 
 ### SYL
 
-- [Lab 1 - Checksum](https://github.com/qsurdez-heigvd/SYL/tree/main/Checksum) (circuit-6, quizz-5.4)
-- [Lab 2 - ALU](https://github.com/qsurdez-heigvd/SYL/tree/main/ALU) (circuit-5.8, quizz-4.5)
-- [Lab 3 - Chenillard](https://github.com/qsurdez-heigvd/SYL/tree/main/Chenilard) (circuit-6, quizz-6)
-- [Lab 4 - Tapis](https://github.com/qsurdez-heigvd/SYL/tree/main/Tapis_de_triage) (session1-5.5, session2-5.6, session3-5.6)
+The following labs have been made on an open-source software to create and simulate logical circuit. The software is called [Logisim](https://github.com/reds-heig/logisim-evolution-reds).
+
+| Title                                                                            | Quick Description                                                                                                                   | Language | Grade circuit | Grade quizz |
+|----------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|----------|---------------|-------------|
+| [Lab 1 - Checksum](https://github.com/qsurdez-heigvd/SYL/tree/main/Checksum)     | Creating a Checksum from scratch. This includes an add/sub module.                                                                  | Logisim  | 6             | 5.4         |
+| [Lab 2 - ALU](https://github.com/qsurdez-heigvd/SYL/tree/main/ALU)               | Creating an ALU (Arithmetic and Logical Unit) from scratch using add/subb, comparator, logic unit and a custom unit. All on 4 bits. | Logisim  | 5.8           | 4.5         |
+| [Lab 3 - Chenillard](https://github.com/qsurdez-heigvd/SYL/tree/main/Chenilard)  | Implementing a system, known as Chenillard, where the bits shift in a circular way. Various options were added                      | Logisim  | 6             | 6           |
+| [Lab 4 - Tapis](https://github.com/qsurdez-heigvd/SYL/tree/main/Tapis_de_triage) | Addin functionalities to a state machine to sort out parcels on a conveyor.                                                         | Logisim  | 5.5, 5.6      | 5.6         |
+
 
 ## Semester 2
 
