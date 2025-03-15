@@ -5,6 +5,33 @@ Hey !
 Here's an organisation that contains all my practical works during my studies in HEIG. It serves as a backup and a way 
 to see clearly how my coding skills have improved ^^
 
+## Group of interest
+
+Here are the different courses grouped by themes
+
+### Web development
+
+- [DAI](#dai)
+- [WEB](#web)
+- [AMT](#amt)
+
+### Object Oriented Programming
+
+- [POO](#poo)
+- [POA](#poa)
+- [MCR](#mcr)
+
+### Data Science
+
+- [ISD](#isd)
+- [ARN](#arn)
+- [MIN](#min)
+
+### Cloud/DevOps
+
+- [DOP](#dop)
+- [CLD](#cld)
+
 ## Table of matters
 
 - [HEIG-VD - Practical Work](#heig-vd---practical-work)
@@ -85,16 +112,16 @@ The following labs have been made on an open-source software to create and simul
 
 ### ASD
 
-| Title                                                                                                   | Quick Description                                                             | Language | Grade |
-|---------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------|----------|-------|
-| [Lab 1 - Complexities](https://github.com/qsurdez-heigvd/ASD/tree/main/lab01)                           | Analysis and implementation of algorithms with different time complexities    | C++      | 5.4   |
-| [Lab 2 - Recursivity](https://github.com/qsurdez-heigvd/ASD/tree/main/lab02)                            | Implementation of various recursive algorithms to solve puzzle                | C++      | 5.9   |
-| [Lab 3 - Sorts](https://github.com/qsurdez-heigvd/ASD/tree/main/lab03)                                  | Implementation and comparison of different sorting algorithms                 | C++      | NA    |
-| [Lab 4 - Dynamic Allocation](https://github.com/qsurdez-heigvd/ASD/tree/main/lab04)                     | Working with dynamic memory allocation for data structures                    | C++      | NA    |
-| [Lab 5 - Circular buffer with variable capacity](https://github.com/qsurdez-heigvd/ASD/tree/main/lab05) | Building a circular buffer with variable capacity                             | C++      | 5.3   |
-| [Lab 6 - Singly Linked List](https://github.com/qsurdez-heigvd/ASD/tree/main/lab06)                     | Implementation of a singly linked list data structure                         | C++      | NA    |
-| [Lab 7 - Évaluation d'expression](https://github.com/qsurdez-heigvd/ASD/tree/main/lab07)                | Building an expression evaluator using stack-based parsing                    | C++      | NA    |
-| [Lab 8 - AVL Trees](https://github.com/qsurdez-heigvd/ASD/tree/main/lab08)                              | Implementation of self-balancing AVL tree data structure                      | C++      | 5.5   |
+| Title                                                                                                   | Quick Description                                                          | Language | Grade |
+|---------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|----------|-------|
+| [Lab 1 - Complexities](https://github.com/qsurdez-heigvd/ASD/tree/main/lab01)                           | Analysis and implementation of algorithms with different time complexities | C++      | 5.4   |
+| [Lab 2 - Recursivity](https://github.com/qsurdez-heigvd/ASD/tree/main/lab02)                            | Implementation of various recursive algorithms to solve puzzle             | C++      | 5.9   |
+| [Lab 3 - Sorts](https://github.com/qsurdez-heigvd/ASD/tree/main/lab03)                                  | Implementation and comparison of different sorting algorithms              | C++      | NA    |
+| [Lab 4 - Dynamic Allocation](https://github.com/qsurdez-heigvd/ASD/tree/main/lab04)                     | Working with dynamic memory allocation for data structures                 | C++      | NA    |
+| [Lab 5 - Circular buffer with variable capacity](https://github.com/qsurdez-heigvd/ASD/tree/main/lab05) | Building a circular buffer with variable capacity                          | C++      | 5.3   |
+| [Lab 6 - Singly Linked List](https://github.com/qsurdez-heigvd/ASD/tree/main/lab06)                     | Implementation of a singly linked list data structure                      | C++      | NA    |
+| [Lab 7 - Évaluation d'expression](https://github.com/qsurdez-heigvd/ASD/tree/main/lab07)                | Building an expression evaluator using stack-based parsing                 | C++      | NA    |
+| [Lab 8 - AVL Trees](https://github.com/qsurdez-heigvd/ASD/tree/main/lab08)                              | Implementation of self-balancing AVL tree data structure                   | C++      | 5.5   |
 
 ### PRG2
 
@@ -216,6 +243,10 @@ The following labs have been made on an open-source software to create and simul
 
 ### GRE
 
+| Title                                                                    | Quick Description                                                                    | Language | Grade |
+|--------------------------------------------------------------------------|--------------------------------------------------------------------------------------|----------|-------|
+| [Lab 1 - DFS/BFS](https://github.com/qsurdez-heigvd/GRE/tree/main/lab01) | Implementing an incremental DFS and a BFS to create a maze and a solver for the maze | Java ☕   |       |
+
 ### ARN
 
 - [Lab 1 - Introduction](https://github.com/qsurdez-heigvd/ARN/tree/main/lab01)
@@ -228,5 +259,5 @@ The following labs have been made on an open-source software to create and simul
 | Title                                                                   | Quick Description                                                         | Language  | Grade |
 |-------------------------------------------------------------------------|---------------------------------------------------------------------------|-----------|-------|
 | [Lab 1 - Tools](https://github.com/qsurdez-heigvd/DOP/tree/main/lab01)  | Installing all apps and necessary software to do the following labs       | agnostic  | NA    |
-| [Lab 2 - Docker](https://github.com/qsurdez-heigvd/DOP/tree/main/lab02) | Writing Dockerfile with good practices in mind such as multi-stage images | Docker 🐋 |       |
+| [Lab 2 - Docker](https://github.com/qsurdez-heigvd/DOP/tree/main/lab02) | Writing Dockerfile with good practices in mind such as multi-stage images | Docker 🐋 | 5.5   |
 
