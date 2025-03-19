@@ -208,9 +208,9 @@ The following labs have been made on an open-source software to create and simul
 
 ## Summer School
 
-| Title                                           | Quick Description                                                                                                                                                                        | Language   | Grade | Link                                   |
-|-------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|-------|----------------------------------------|
-| [Team Project](https://github.com/Plant-keeper) | 3 weeks project to create an full-stack app. The project is made in React for the frontend and NextJS for the backend. We implemented a CRUD API, Mailing Service and IOT communication. | TypeScript | 5.8   | [PlantKeeper](https://plantkeeper.ch/) |
+| Title                                           | Quick Description                                                                                                                                                                        | Language   | Grade |
+|-------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|-------|
+| [Team Project](https://github.com/Plant-keeper) | 3 weeks project to create an full-stack app. The project is made in React for the frontend and NextJS for the backend. We implemented a CRUD API, Mailing Service and IOT communication. | TypeScript | 5.8   |
 
 
 ## Semester 5
