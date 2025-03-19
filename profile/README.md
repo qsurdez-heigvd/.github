@@ -20,6 +20,7 @@ Here are the different courses grouped by themes
 - [POO](#poo)
 - [POA](#poa)
 - [MCR](#mcr)
+- [GRE](#gre)
 
 ### Data Science
 
@@ -147,10 +148,12 @@ The following labs have been made on an open-source software to create and simul
 
 ### PCO
 
-- [Lab 2](https://github.com/qsurdez-heigvd/PCO/tree/main/lab02)
-- [Lab 3](https://github.com/qsurdez-heigvd/PCO/tree/main/lab03) (5.6)
-- [Lab 4](https://github.com/qsurdez-heigvd/PCO/tree/main/lab04) (5.4)
-- [Lab 5](https://github.com/qsurdez-heigvd/PCO/tree/main/lab05) (6)
+| Title                                                          | Quick Description                                                                                                   | Language | Grade |
+|----------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|----------|-------|
+| [Lab 2](https://github.com/qsurdez-heigvd/PCO/tree/main/lab02) | Implement multi-threading for a specific application                                                                | C++      | NA    |
+| [Lab 3](https://github.com/qsurdez-heigvd/PCO/tree/main/lab03) | Implementing safe transactions between actors with specific attention on critical sections through the use of locks | C++      | 5.6   |
+| [Lab 4](https://github.com/qsurdez-heigvd/PCO/tree/main/lab04) | Handling trainline sharing through the use of semaphores                                                            | C++      | 5.9   |
+| [Lab 5](https://github.com/qsurdez-heigvd/PCO/tree/main/lab05) | Handling the flux of clients in a modelisation of a barbershop through the use of Mesa monitors                     | C++      | 6     |
 
 ### POO
 
