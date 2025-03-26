@@ -5,6 +5,8 @@ Hey !
 Here's an organisation that contains all my practical works during my studies in HEIG. It serves as a backup and a way 
 to see clearly how my coding skills have improved ^^
 
+## List of languages through nice icons yesyesyes
+
 ## Group of interest
 
 Here are the different courses grouped by themes
@@ -236,11 +238,11 @@ The following labs have been made on an open-source software to create and simul
 
 ### SLH
 
-| Title                                                                         | Quick Description                                  | Language | Grade |
-|-------------------------------------------------------------------------------|----------------------------------------------------|----------|-------|
-| [Lab 1](https://github.com/qsurdez-heigvd/SLH/tree/main/Lab1)                 | Handout of SQL injection and XSS attacks           | agnostic | 5.4   |
-| [Lab 2 - Validation](https://github.com/qsurdez-heigvd/SLH/tree/main/Lab2)    | Implementing validation logic for user inputs      | Rust 🦀  | 6     |
-| [Lab 3 - Authorization](https://github.com/qsurdez-heigvd/SLH/tree/main/Lab3) | Using Casbin to implement ABAC authorization logic | Rust 🦀  | 6     |
+| Title                                                                         | Quick Description                                                                    | Language | Grade |
+|-------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|----------|-------|
+| [Lab 1](https://github.com/qsurdez-heigvd/SLH/tree/main/Lab1)                 | Handout of SQL injection and XSS attacks                                             | agnostic | 5.4   |
+| [Lab 2 - Validation](https://github.com/qsurdez-heigvd/SLH/tree/main/Lab2)    | Implementing validation logic for user inputs as well as Passkeys for authentication | Rust 🦀  | 6     |
+| [Lab 3 - Authorization](https://github.com/qsurdez-heigvd/SLH/tree/main/Lab3) | Using Casbin to implement ABAC authorization logic                                   | Rust 🦀  | 6     |
 
 ## Semester 6
 
@@ -259,8 +261,8 @@ The following labs have been made on an open-source software to create and simul
 
 ### DOP
 
-| Title                                                                   | Quick Description                                                         | Language  | Grade |
-|-------------------------------------------------------------------------|---------------------------------------------------------------------------|-----------|-------|
-| [Lab 1 - Tools](https://github.com/qsurdez-heigvd/DOP/tree/main/lab01)  | Installing all apps and necessary software to do the following labs       | agnostic  | NA    |
-| [Lab 2 - Docker](https://github.com/qsurdez-heigvd/DOP/tree/main/lab02) | Writing Dockerfile with good practices in mind such as multi-stage images | Docker 🐋 | 5.5   |
-
+| Title                                                                           | Quick Description                                                                                      | Language  | Grade |
+|---------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|-----------|-------|
+| [Lab 1 - Tools](https://github.com/qsurdez-heigvd/DOP/tree/main/lab01)          | Installing all apps and necessary software to do the following labs                                    | agnostic  | NA    |
+| [Lab 2 - Docker](https://github.com/qsurdez-heigvd/DOP/tree/main/lab02)         | Writing Dockerfile with good practices in mind such as multi-stage images                              | Docker 🐋 | 5.5   |
+| [Lab 3 - Docker Compose](https://github.com/qsurdez-heigvd/DOP/tree/main/lab03) | Writing a compose file with Traefik as a reverse proxy. Use of the 12factor app principles with `.env` | Docker 🐋 | NA    |
