@@ -7,9 +7,20 @@ to see clearly how my coding skills have improved ^^
 
 ## List of languages through nice icons yesyesyes
 
+
+
 ## Group of interest
 
 Here are the different courses grouped by themes
+
+### Cloud/DevOps
+
+- [DOP](#dop)
+- [CLD](#cld)
+
+### Security
+
+- [SLH](#slh)
 
 ### Web development
 
@@ -30,10 +41,11 @@ Here are the different courses grouped by themes
 - [ARN](#arn)
 - [MIN](#min)
 
-### Cloud/DevOps
+### Computer Architecture
 
-- [DOP](#dop)
-- [CLD](#cld)
+- [SYL](#syl)
+- [ARO](#aro)
+- [SYE](#sye)
 
 ## Table of matters
 
@@ -200,13 +212,16 @@ The following labs have been made on an open-source software to create and simul
 
 ### WEB
 
-- [Lab HTML/CSS](https://github.com/qsurdez-heigvd/WEB/tree/main/lab01) (6)
-- [Lab Tetris - partie 1](https://github.com/qsurdez-heigvd/WEB/tree/main/lab02) (6)
-- [Lab Tetris - Interactions](https://github.com/qsurdez-heigvd/WEB/tree/main/lab03) (5.9)
-- [Lab MPA](https://github.com/qsurdez-heigvd/WEB/tree/main/lab04) (6)
-- [Lab Tetris - WebSockets](https://github.com/qsurdez-heigvd/WEB/tree/main/lab05) (4.3)
-- [Lab Security - CTF](https://github.com/qsurdez-heigvd/WEB/tree/main/lab06) (4.8)
-- [Lab Project](https://github.com/qsurdez-heigvd/WEB/tree/main/lab07) (5.6)
+| Title                                                                              | Quick Description                                                                                                     | Language             | Grade |
+|------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|----------------------|-------|
+| [Lab HTML/CSS](https://github.com/qsurdez-heigvd/WEB/tree/main/lab01)              | Development of responsive web interfaces using semantic HTML and CSS                                                  | HTML/CSS             | 6     |
+| [Lab Tetris - partie 1](https://github.com/qsurdez-heigvd/WEB/tree/main/lab02)     | Implementation of a Tetris game engine with modular component architecture and DOM manipulation                       | JavaScript           | 6     |
+| [Lab Tetris - Interactions](https://github.com/qsurdez-heigvd/WEB/tree/main/lab03) | Enhancement of Tetris with event-driven interaction systems, keyboard input handling, and game state management       | JavaScript           | 5.9   |
+| [Lab MPA](https://github.com/qsurdez-heigvd/WEB/tree/main/lab04)                   | Development of a Multi-Page Application with server-side rendering and state persistence                              | JavaScript           | 6     |
+| [Lab Tetris - WebSockets](https://github.com/qsurdez-heigvd/WEB/tree/main/lab05)   | Integration of real-time multiplayer capabilities using WebSocket protocol with game state synchronization            | JavaScript           | 4.3   |
+| [Lab Security - CTF](https://github.com/qsurdez-heigvd/WEB/tree/main/lab06)        | Implementation of web security assessment techniques with vulnerability identification and exploitation methodologies | JavaScript           | 4.8   |
+| [Lab Project](https://github.com/qsurdez-heigvd/WEB/tree/main/lab07)               | Implementation of an application that would render lyrics of a music in 3D letters in sync with the given music       | JavaScript (ThreeJS) | 5.6   |
+
 
 ## Summer School
 
@@ -238,11 +253,11 @@ The following labs have been made on an open-source software to create and simul
 
 ### SLH
 
-| Title                                                                         | Quick Description                                                                    | Language | Grade |
-|-------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|----------|-------|
-| [Lab 1](https://github.com/qsurdez-heigvd/SLH/tree/main/Lab1)                 | Handout of SQL injection and XSS attacks                                             | agnostic | 5.4   |
-| [Lab 2 - Validation](https://github.com/qsurdez-heigvd/SLH/tree/main/Lab2)    | Implementing validation logic for user inputs as well as Passkeys for authentication | Rust 🦀  | 6     |
-| [Lab 3 - Authorization](https://github.com/qsurdez-heigvd/SLH/tree/main/Lab3) | Using Casbin to implement ABAC authorization logic                                   | Rust 🦀  | 6     |
+| Title                                                                         | Quick Description                                                                                                       | Language | Grade |
+|-------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|----------|-------|
+| [Lab 1](https://github.com/qsurdez-heigvd/SLH/tree/main/Lab1)                 | Handout of SQL injection and XSS attacks                                                                                | agnostic | 5.4   |
+| [Lab 2 - Validation](https://github.com/qsurdez-heigvd/SLH/tree/main/Lab2)    | Implementation of robust input validation frameworks and passwordless authentication using WebAuthn/Passkeys            | Rust 🦀  | 6     |
+| [Lab 3 - Authorization](https://github.com/qsurdez-heigvd/SLH/tree/main/Lab3) | Development of Attribute-Based Access Control (ABAC) using Casbin policy engine with fine-grained permission management | Rust 🦀  | 6     |
 
 ## Semester 6
 
@@ -258,6 +273,9 @@ The following labs have been made on an open-source software to create and simul
 
 ### MIN
 
+| Title                                                                           | Quick Description                                                                                                                                                | Language  | Grade |
+|---------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|-------|
+| [Lab 1 - DCGAN, Pix2Pix](https://github.com/qsurdez-heigvd/MIN/tree/main/lab01) | Study of Deep Convolutional Generative Adversarial Networks (DCGAN) and Pix2Pix image-to-image translation using U-Net architecture with advanced loss functions | Python 🐍 | NA    |
 
 ### DOP
 
