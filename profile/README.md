@@ -150,10 +150,6 @@ The following labs have been made on an open-source software to create and simul
 
 - _Sacrificed to Cthulhu to have good grades from now on_ 🐙
 
-## Summer School
-
-- [IT Project](https://github.com/qsurdez-heigvd/PIN/tree/main/project) (4.9)
-
 ## Semester 3
 
 ### BDR
