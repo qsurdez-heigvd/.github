@@ -269,7 +269,9 @@ The following labs have been made on an open-source software to create and simul
 
 ### ARN
 
-- [Lab 1 - Introduction](https://github.com/qsurdez-heigvd/ARN/tree/main/lab01)
+| Title                                                                         | Quick Description                                                                                                                              | Language  | Grade |
+|-------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|-----------|-------|
+| [Lab 1 - Introduction](https://github.com/qsurdez-heigvd/ARN/tree/main/lab01) | Introduction to the database with which we will be working on for the semester. Exploration of the data and creation of plots for observations | Pyhton 🐍 | NA    |
 
 ### MIN
 
