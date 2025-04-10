@@ -261,7 +261,7 @@ The following labs have been made on an open-source software to create and simul
 
 | Title                                                                    | Quick Description                                                                    | Language | Grade |
 |--------------------------------------------------------------------------|--------------------------------------------------------------------------------------|----------|-------|
-| [Lab 1 - DFS/BFS](https://github.com/qsurdez-heigvd/GRE/tree/main/lab01) | Implementing an incremental DFS and a BFS to create a maze and a solver for the maze | Java ☕   |       |
+| [Lab 1 - DFS/BFS](https://github.com/qsurdez-heigvd/GRE/tree/main/lab01) | Implementing an incremental DFS and a BFS to create a maze and a solver for the maze | Java ☕   |  5.7     |
 
 ### ARN
 
@@ -273,7 +273,7 @@ The following labs have been made on an open-source software to create and simul
 
 | Title                                                                           | Quick Description                                                                                                                                                | Language  | Grade |
 |---------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|-------|
-| [Lab 1 - DCGAN, Pix2Pix](https://github.com/qsurdez-heigvd/MIN/tree/main/lab01) | Study of Deep Convolutional Generative Adversarial Networks (DCGAN) and Pix2Pix image-to-image translation using U-Net architecture with advanced loss functions | Python 🐍 | NA    |
+| [Lab 1 - DCGAN, Pix2Pix](https://github.com/qsurdez-heigvd/MIN/tree/main/lab01) | Study of Deep Convolutional Generative Adversarial Networks (DCGAN) and Pix2Pix image-to-image translation using U-Net architecture with advanced loss functions | Python 🐍 | 5.8    |
 
 ### DOP
 
