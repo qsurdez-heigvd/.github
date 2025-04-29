@@ -268,6 +268,7 @@ The following labs have been made on an open-source software to create and simul
 | Title                                                                         | Quick Description                                                                                                                              | Language  | Grade |
 |-------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|-----------|-------|
 | [Lab 1 - Introduction](https://github.com/qsurdez-heigvd/ARN/tree/main/lab01) | Introduction to the database with which we will be working on for the semester. Exploration of the data and creation of plots for observations | Pyhton 🐍 | NA    |
+| [Lab 3 - MLPs](https://github.com/qsurdez-heigvd/ARN/tree/main/lab03)         | Introduction to MLPs with classification of sleep stages of mice from an EEG data | Python 🐍 | 6 |
 
 ### MIN
 
