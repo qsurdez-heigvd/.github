@@ -47,10 +47,10 @@ Here are the different courses grouped by themes
 - [ARO](#aro)
 - [SYE](#sye)
 
-## Table of matters
+## Outline
 
 - [HEIG-VD - Practical Work](#heig-vd---practical-work)
-  - [Table of matters](#table-of-matters)
+  - [Outline](#outline)
   - [Semester 1](#semester-1)
     - [PRG1](#prg1)
     - [ISD](#isd)
