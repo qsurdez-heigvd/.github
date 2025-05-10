@@ -275,11 +275,13 @@ The following labs have been made on an open-source software to create and simul
 | Title                                                                           | Quick Description                                                                                                                                                | Language  | Grade |
 |---------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|-------|
 | [Lab 1 - DCGAN, Pix2Pix](https://github.com/qsurdez-heigvd/MIN/tree/main/lab01) | Study of Deep Convolutional Generative Adversarial Networks (DCGAN) and Pix2Pix image-to-image translation using U-Net architecture with advanced loss functions | Python 🐍 | 5.8    |
+| [Lab 2 - Q-learning](https://github.com/qsurdez-heigvd/MIN/tree/main/lab02)     | Study and coding a Q-learning algorithm for an agent to resolve problems in environment provided by the lib gym | Python 🐍 | NA    |
 
 ### DOP
 
-| Title                                                                           | Quick Description                                                                                      | Language  | Grade |
+| Title                                                                           | Quick Description                                                                                      | Technology used  | Grade |
 |---------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|-----------|-------|
 | [Lab 1 - Tools](https://github.com/qsurdez-heigvd/DOP/tree/main/lab01)          | Installing all apps and necessary software to do the following labs                                    | agnostic  | NA    |
 | [Lab 2 - Docker](https://github.com/qsurdez-heigvd/DOP/tree/main/lab02)         | Writing Dockerfile with good practices in mind such as multi-stage images                              | Docker 🐋 | 5.5   |
 | [Lab 3 - Docker Compose](https://github.com/qsurdez-heigvd/DOP/tree/main/lab03) | Writing a compose file with Traefik as a reverse proxy. Use of the 12factor app principles with `.env` | Docker 🐋 | NA    |
+| [Lab 6 - CI/CD K8s](https://github.com/qsurdez-heigvd/DOP/tree/main/lab06)      | Writing a Docker, compose, CI/CD for a Spring application. Deploying it to K8s with the images pushed to the gitlab registry | Docker 🐋 | 5.5   |
