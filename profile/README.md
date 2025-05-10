@@ -5,10 +5,6 @@ Hey !
 Here's an organisation that contains all my practical works during my studies in HEIG. It serves as a backup and a way 
 to see clearly how my coding skills have improved ^^
 
-## List of languages through nice icons yesyesyes
-
-
-
 ## Group of interest
 
 Here are the different courses grouped by themes
